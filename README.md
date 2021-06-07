@@ -1,2 +1,2 @@
 # Data-Science
-Created repository for practice
+Created repository for project
