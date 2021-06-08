@@ -7,5 +7,5 @@ Created repository for project
 ___
 
 ```
-print('Helo World')
+print('Hello World')
 ```
